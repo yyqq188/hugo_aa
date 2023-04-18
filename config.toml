@@ -19,7 +19,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   background_color_class = "bg-black"
-  recent_posts_number = 1
+  recent_posts_number = 3
 
 
 
