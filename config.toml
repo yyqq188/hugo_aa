@@ -1,4 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = '财亦有道'
+title = 'TestTest'
 theme = 'ananke'
+
+
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
