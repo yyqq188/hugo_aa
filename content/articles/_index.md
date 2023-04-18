@@ -5,4 +5,4 @@ menu:
   main:
     weight: 1
 ---
-Articles are paginated with only three posts
+文章列表
