@@ -7,7 +7,7 @@ draft: true
 
 wordpress1  
 wordpress2  
-
+more
 wordpress3
 wordpress4  
 <!--more-->
